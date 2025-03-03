@@ -1,139 +1,188 @@
 # The Archcord Code of Conduct
-### Last Edited - 3rd March 2025.
-Welcome to the Archcord communities official code of conduct! We're an Arch community trying to make a difference by keeping a neutral stance on topics with an emphasis on moderation transparency and community interaction! Members are more than welcome to contribute to the Code of Conduct!
+**Last Edited: March 03, 2025**
+
+Welcome to the official Archcord community Code of Conduct! We are an inclusive Linux community dedicated to neutrality, moderation transparency, and active community engagement. By joining Archcord, you agree to abide by the rules below as well as Discord's [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).
 
 ---
 
-# Preface
-By joining the Archcord community, you not only agree to this code of conduct as written at the time of joining, but through your entire time in our community. You also agree that you follow Discord's Terms of Service and Code of Conduct while in our community. Failure to comply may result in your removal from our community.
-
-- [Discord Community Guidelines](https://discord.com/guidelines)
-- [Discord Terms of Service](https://discord.com/terms)
+## Table of Contents
+1. [Preface](#preface)
+2. [General Community Policies](#section-1---general-community-policies)
+   - [1.1 Discrimination](#11---discrimination)
+   - [1.2 Age Requirements](#12---age-requirements)
+   - [1.3 Safe for Work Environment](#13---safe-for-work-environment)
+   - [1.4 Anti-Elitism](#14---anti-elitism)
+   - [1.5 Cross-Server Drama](#15---cross-server-drama)
+   - [1.6 Personally Identifiable Information](#16---personally-identifiable-information)
+   - [1.7 Discussion of Piracy](#17---discussion-of-piracy)
+   - [1.8 Bot Commands](#18---bot-commands)
+3. [Voice Activity Conduct](#section-2---voice-activity-conduct)
+   - [2.1 Music Bot Trolling](#21---music-bot-trolling)
+   - [2.2 Sound Spam](#22---sound-spam)
+   - [2.3 Streamed Content](#23---streamed-content)
+4. [Moderation Policies](#section-3---moderation-policies)
+   - [3.1 Moderator Discretion](#31---moderator-discretion)
+   - [3.2 Moderation Transparency](#32---moderation-transparency)
+   - [3.3 Administrator Unsuitability](#33---administrator-unsuitability)
+   - [3.4 Administrator Privilege](#34---administrator-privilege)
 
 ---
 
-# Section 1 - General Community Policies
-These are the general policies which you agree to by joining our community.
+## Preface <a name="preface"></a>
 
-## 1.1 - Discrimination
-We do not support discrimination of any forms in the Archcord community. This includes transphobia, homophobia, xenophobia, racism and other non described forms of discrimination. This is an inclusive community and if you are found to be discriminating against a group of people in the Archcord community may result in punishment at a moderators discression.
+By joining the Archcord community, you agree to follow this Code of Conduct as it exists at the time of joining—and as it is updated over time. You also agree to comply with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). Failure to comply may result in your removal from our community.
 
-**Punishment Escalation Procedure:**
+---
 
-For first cases of discrimination, for example backhanded comments, members will be brought into tickets and asked to correct their behaviour. Failure to comply may result in removal from the Archcord community.
+## Section 1 - General Community Policies <a name="section-1---general-community-policies"></a>
 
-For severe first cases or repeat cases, bans will be issued to members who show discriminitory behaviour. This includes slurs and explicit discrimination.
+These policies ensure a safe and respectful environment for all our members.
 
+### 1.1 - Discrimination <a name="11---discrimination"></a>
 
-## 1.2 - Age Requirements
-By joining the Archcord community you agree that you are at least 13 years old as per the Discord Terms of Service. However, this does not mean that you can make explicit jokes due to members in the server being over 13. Please refer to Rule 1.3.
+We do not tolerate any form of discrimination, including transphobia, homophobia, xenophobia, racism, and other similar behaviors. Our community is inclusive, and any discriminatory actions may result in moderation action.
 
-**Punishment Escalation Procedure:**
+**Punishment Escalation:**
+- **First Offense (Mild):** You will receive a private ticket explaining the issue and guidance for improvement.
+- **Severe or Repeated Offenses:** You may be banned immediately, especially for the use of slurs or overt discrimination.
 
-If you are found to be under 13, you will be banned from the community for at minimum 3 years. There are no exceptions to this ban and it cannot be appealed.
+---
 
+### 1.2 - Age Requirements <a name="12---age-requirements"></a>
 
-## 1.3 - Safe for Work Environment
-We would like to keep Archcord a safe environment for all and so as part of that we do not want any content considered Sexually Explicit or Not Safe For Work in our community. 
+By joining, you confirm that you are at least 13 years old as per Discord's Terms of Service. Note that being 13 or older does not permit explicit or adult jokes given our diverse age group.
 
-### 1.3.1 - Sexually Explicit Messages
-- Any messages sent by members must be safe for work. Explicit content must not be shared through images, videos or similar.
+**Punishment Escalation:**
+- **Underage Members:** If you are found to be under 13, you will be banned for a minimum of 3 years with no possibility of appeal.
 
-### 1.3.2 - Sexually Explicit User Profiles
-- User profiles which are viewable in this community must conform to our safe for work guidelines and must be suitable for a community with minors.
+---
 
-### 1.3.3 - Animal Abuse, Gore and Excessive Violence.
-- Do not share content which has animal abuse, gore or an excessive amount of violence.
+### 1.3 - Safe for Work Environment <a name="13---safe-for-work-environment"></a>
 
-### 1.3.4 - Self Harm and Suicide
-- Content which depicts self harm, or suicide is not accepted in this community and will be removed. Using self-harm for manipulative purposes will result in immediate removal from the community.
-  
-**Punishment Escalation Procedure:**
+We aim to maintain a Safe For Work (SFW) space for everyone. This includes guidelines for all forms of shared content:
 
-On first offences, members who post offending content will be ticketed, unless at moderators discression posted content is deemed severe at which a moderator holds the right to remove a member from the community effective immediately, see Rule 4.1.
-For continued offences, moderators may timeout, mute, kick or ban members depending on severity and severity and frequency of the content posted.
+#### 1.3.1 - Sexually Explicit Messages
+- **Guideline:** All messages must be safe for work. Explicit content (images, videos, etc.) is prohibited.
 
-## 1.4 - Anti Elitism
-Elitism is not acceptable in the Archcord community. No distribution is better than the other and our goal here is to help out newer members of the linux community. Telling members to "RTFM" or "Read the Fucking Manual" is not acceptable and will result in a ticket and potential punishment.
+#### 1.3.2 - Sexually Explicit User Profiles
+- **Guideline:** Profile content must remain appropriate for a community that includes minors.
 
-**Punishment Escalation Procedure:**
+#### 1.3.3 - Animal Abuse, Gore, and Excessive Violence
+- **Guideline:** Do not share content depicting animal abuse, graphic gore, or excessive violence.
 
-Members will be ticketed on their first offences and their behaviour will be brought up. Continued instances of this behaviour may result in removal from the community.
+#### 1.3.4 - Self-Harm and Suicide
+- **Guideline:** Content related to self-harm or suicide is not allowed. Using such topics manipulatively will result in immediate removal.
 
+**Punishment Escalation:**
+- **First Offense:** You may receive a ticket unless the content is deemed severe, in which case a moderator may remove you immediately.
+- **Repeated Offenses:** Further violations may lead to timeouts, mutes, kicks, or bans.
 
-## 1.5 - Cross-Server Drama
-At Archcord we like to keep a friendly community with a lack of politics and so as part of that we would like to keep drama from other communities out of our community.
+---
 
-**Punishment Escalation Procedure:**
+### 1.4 - Anti-Elitism <a name="14---anti-elitism"></a>
 
-The first case of cross server drama may result in a ticket and a member being corrected on their behaviour. Continued offences may result in removal from the community.
+Elitist behavior is not acceptable. Dismissing newcomers with comments like "RTFM" or "Read the Fucking Manual" undermines our community spirit.
 
+**Punishment Escalation:**
+- **First Offense:** You will be ticketed, and your behavior will be addressed.
+- **Repeated Offenses:** Continued behavior may result in removal from the community.
 
-## 1.6 - Personally Identifiable Information
-Members must not share other members personal information, this includes real names if the member does not wish for it to be shared, phone numbers, emails, addresses, locations and other information of sensitivity.
+---
 
-**Punishment Escalation Procedure:**
+### 1.5 - Cross-Server Drama <a name="15---cross-server-drama"></a>
 
-Depending on severity a member may be ticketed or removed from the community effective immediately.
+We strive to keep our community drama-free by avoiding issues from other servers.
 
+**Punishment Escalation:**
+- **First Instance:** You may receive a ticket and a warning.
+- **Repeated Instances:** Continued behavior can lead to removal.
 
-## 1.7 - Discussion of Piracy
-As per the Discord Terms of Service, piracy must not be promoted in Archcord. While it is a discussable topic, we ask that you do not share sources, resources or links. If you do discuss piracy, please do it carefully as if a moderator deems your conversation to contain sources/links removal from the community is possible.
+---
 
-**Punishment Escalation Procedure:**
+### 1.6 - Personally Identifiable Information <a name="16---personally-identifiable-information"></a>
 
-Depending on severity a member may be ticketed or removed from the community effective immediately.
+Do not share personal information about others (e.g., real names, phone numbers, emails, addresses) without explicit consent.
 
+**Punishment Escalation:**
+- Depending on the severity, you may be ticketed or removed immediately.
 
-## 1.8 - Bot Commands
-Please keep bot commands to the specified channels, this keeps chat flow clear and ensures that users can converse without interruptions from bot commands.
+---
 
-**Punishment Escalation Procedure:**
+### 1.7 - Discussion of Piracy <a name="17---discussion-of-piracy"></a>
 
-Depending on severity a member may be ticketed.
+While discussions around piracy may occur, promoting or sharing sources, resources, or links related to piracy is prohibited.
 
+**Punishment Escalation:**
+- Depending on severity, you may be ticketed or removed immediately.
 
-# Section 2 - Voice Activity Conduct
-This is the conduct you agree to when you join a voice call in our server. Generally speaking rules are a lot more relaxed here compared to other places in the server.
+---
 
-## 2.1 - Music Bot Trolling
-Mass skipping a queue or changing somes music which they are playing through a music bot is not acceptable in voice channels. You must wait your turn or find a voice channel for yourself.
+### 1.8 - Bot Commands <a name="18---bot-commands"></a>
 
-**Punishment Escalation Procedure:**
+Please use designated channels for bot commands to ensure clear conversation flow.
 
-Depending on severity a member may be ticketed or removed from the community depending on severity.
+**Punishment Escalation:**
+- Depending on severity, you may receive a ticket.
 
+---
 
-## 2.2 - Sound Spam
-You cannot and must not spam soundboard clips, audio clips or similar in voice channels.
+## Section 2 - Voice Activity Conduct <a name="section-2---voice-activity-conduct"></a>
 
-**Punishment Escalation Procedure:**
+Voice channels have more relaxed guidelines but still require respectful behavior.
 
-Depending on severity a member may be ticketed.
+### 2.1 - Music Bot Trolling <a name="21---music-bot-trolling"></a>
 
+Interrupting music sessions (e.g., mass skipping or altering the queue) is not allowed. Please wait your turn or use a separate voice channel.
 
-## 2.2 - Streamed Content
-Streamed Content must abide by our SFW Policy and guidelines regarding piracy. You cannot and must not stream content which you did not legally purchase, also known as piracy.
+**Punishment Escalation:**
+- Depending on severity, you may be ticketed or removed.
 
-**Punishment Escalation Procedure:**
+---
 
-Depending on severity a member may be ticketed or removed from the server.
+### 2.2 - Sound Spam <a name="22---sound-spam"></a>
 
+Spamming soundboard clips or audio in voice channels disrupts conversation and is prohibited.
 
-# Section 3 - Moderation Policies
-These are the moderation policies which the staff team follow and you adknowledge by joining our community.
+**Punishment Escalation:**
+- Depending on severity, you may be ticketed.
 
-## 3.1 - Moderator Discression
-Moderators hold the power to remove members, with good reason, from the community at any time. However, as a member you hold the power to communicate with the moderation team if you disagree with a staff members punishment. Moderator Discression does not mean a staff member can remove any member they want for any reason and if misconduct is found a staff member may be removed.
+---
 
+### 2.3 - Streamed Content <a name="23---streamed-content"></a>
 
-## 3.2 - Moderation Transparency
-At Archcord, we hold an open policy regarding moderation with all our moderation logs publicly viewable by all members in our community allowing members to criticise punishments for any reason they see fit. We ask that community members open this in a ticket channel instead of the general channels to prevent community disruption.
+All streamed content must comply with our SFW policies and piracy guidelines. Streaming content you haven't legally purchased is not allowed.
 
+**Punishment Escalation:**
+- Depending on severity, you may be ticketed or removed.
 
-## 3.3 - Administrator Insuitability
-If the community deems an administrator to be unfit at any point, they must retract from their position and allow the community to vote on a fit successor. A 30-day window between the administrator being removed and the new administrator coming into effect, where the previous administrator retains power is used to allow the community time to decide on a new administrator. For this policy to go through, at minimum 90% of the **TOTAL** community must agree in a public poll to this going ahead. For example if the community consists of 1000 members, 900 must agree to this.
+---
 
+## Section 3 - Moderation Policies <a name="section-3---moderation-policies"></a>
 
-## 3.4 - Administrator Privilege
-At any point an administrator may remove a member from the community if they are deemed unfit for the community, regardless of complicance with Code of Conduct. This rule cannot be abused and can be challenged at any time by a member however an administrator is not required to disclose information if the topic is of a sensitive matter.
+By joining Archcord, you acknowledge our moderation practices.
+
+### 3.1 - Moderator Discretion <a name="31---moderator-discretion"></a>
+
+Moderators have the authority to remove members for valid reasons. However, you have the right to communicate if you disagree with a decision. Moderators must exercise their discretion fairly.
+
+---
+
+### 3.2 - Moderation Transparency <a name="32---moderation-transparency"></a>
+
+All moderation logs are publicly viewable to maintain transparency. If you have concerns or need clarifications, please open a ticket rather than discussing in general channels.
+
+---
+
+### 3.3 - Administrator Unsuitability <a name="33---administrator-unsuitability"></a>
+
+If the community deems an administrator unfit, a public vote will be held. A 30-day transition period is provided during which the outgoing administrator remains until a successor is elected. For this process to proceed, at least **90% of the total community** must agree via poll.
+
+---
+
+### 3.4 - Administrator Privilege <a name="34---administrator-privilege"></a>
+
+Administrators may remove any member deemed unfit for the community, even if they are following the Code of Conduct. This power is not absolute and can be challenged. However, sensitive matters may require administrators to withhold specific details.
+
+---
+
+*By being part of Archcord, you help create a safe, respectful, and inclusive community. Thank you for your cooperation!*
