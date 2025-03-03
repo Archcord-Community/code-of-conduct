@@ -1,5 +1,5 @@
 # The Archcord Code of Conduct
-### Last Edited - 7th Feburary 2025.
+### Last Edited - 3rd March 2025.
 Welcome to the Archcord communities official code of conduct! We're an Arch community trying to make a difference by keeping a neutral stance on topics with an emphasis on moderation transparency and community interaction! Members are more than welcome to contribute to the Code of Conduct!
 
 ---
