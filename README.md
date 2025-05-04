@@ -1,5 +1,5 @@
 # The Archcord Code of Conduct
-**Last Edited: March 03, 2025**
+**Last Edited: May 05, 2025 - 00:15 BST**
 
 Welcome to the official Archcord community Code of Conduct! We are an inclusive Linux community dedicated to neutrality, moderation transparency, and active community engagement. By joining Archcord, you agree to abide by the rules below as well as Discord's [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).
 
@@ -92,6 +92,7 @@ Elitist behavior is not acceptable. Dismissing newcomers with comments like "RTF
 ### 1.5 - Cross-Server Drama <a name="15---cross-server-drama"></a>
 
 We strive to keep our community drama-free by avoiding issues from other servers.
+This includes discussing our issues in other communities when unwarranted. You are welcome to point out our issues and we actually welcome criticism in such way, but if criticism is falsified or manipulated we reserve the right to remove you from the community.
 
 **Punishment Escalation:**
 - **First Instance:** You may receive a ticket and a warning.
@@ -123,6 +124,14 @@ Please use designated channels for bot commands to ensure clear conversation flo
 
 **Punishment Escalation:**
 - Depending on severity, you may receive a ticket.
+
+---
+
+### 1.9 - Harassment of Members
+Harrassing members in server or in DMs is not tolerated. We will not accept malicious interactions with a member and if you do so, we reserve the right to remove you from the server.
+
+**Punishment Escalation:**
+- Depending on severity, you may receive a ticket or be removed from the server.
 
 ---
 
