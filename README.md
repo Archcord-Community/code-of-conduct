@@ -16,6 +16,7 @@ Welcome to the official Archcord community Code of Conduct! We are an inclusive 
    - [1.6 Personally Identifiable Information](#16---personally-identifiable-information)
    - [1.7 Discussion of Piracy](#17---discussion-of-piracy)
    - [1.8 Bot Commands](#18---bot-commands)
+   - [1.9 Harassment of Members](#19---harassment-of-members)
 3. [Voice Activity Conduct](#section-2---voice-activity-conduct)
    - [2.1 Music Bot Trolling](#21---music-bot-trolling)
    - [2.2 Sound Spam](#22---sound-spam)
