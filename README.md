@@ -51,10 +51,12 @@ We do not tolerate any form of discrimination, including transphobia, homophobia
 
 ### 1.2 - Age Requirements <a name="12---age-requirements"></a>
 
-By joining, you confirm that you are at least 13 years old as per Discord's Terms of Service. Note that being 13 or older does not permit explicit or adult jokes given our diverse age group.
+By joining, you confirm that you are old enough to use discord as per their terms of service. The minimum age is 13, but
+it can be up to 16 in some places. You can find the official list [here.](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday)
+Note that having the minimum age requirement does not permit explicit or adult jokes given our diverse age group.
 
 **Punishment Escalation:**
-- **Underage Members:** If you are found to be under 13, you will be banned for a minimum of 3 years with no possibility of appeal.
+- **Underage Members:** If you are found to be under the minimum age requirement, you will be banned for a minimum of 3 years with no possibility of appeal.
 
 ---
 
