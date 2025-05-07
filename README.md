@@ -79,7 +79,10 @@ We aim to maintain a Safe For Work (SFW) space for everyone. This includes guide
 - **Guideline:** Do not share content depicting animal abuse, graphic gore, or excessive violence.
 
 #### 1.3.4 - Self-Harm and Suicide
-- **Guideline:** Content related to self-harm or suicide is not allowed. Using such topics manipulatively will result in immediate removal.
+- **Guideline:** Content related to self-harm or suicide is not allowed. Using such topics in a manipulative/negative
+  way will result in immediate removal. We would also recommend not talking about these topics, because it might trigger
+  someone that are facing the same issues in their own life, or they have someone close that has/had dealt with issues
+  like this in the past.
 
 **Punishment Escalation:**
 - **First Offense:** You may receive a ticket unless the content is deemed severe, in which case a moderator may remove you immediately.
