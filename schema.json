@@ -1,0 +1,46 @@
+{
+    "$id": "https://raw.githubusercontent.com/amadaluzia/archcord-code-of-conduct/refs/heads/main/sections/schema.json",
+    "type": "object",
+    "properties": {
+        "rules": {
+            "items": {
+                "properties": {
+                    "glossary": {
+                        "items": {
+                            "properties": {
+                                "word": {
+                                    "type": "string"
+                                },
+                                "meaning": {
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        },
+                        "type": "array"
+                    },
+                    "escalations": {
+                        "items": {
+                            "type": "string"
+                        },
+                        "type": "array"
+                    },
+                    "rule": {
+                        "type": "string"
+                    },
+                    "description": {
+                        "type": "string"
+                    }
+                },
+                "type": "object"
+            },
+            "type": "array"
+        },
+        "title": {
+            "type": "string"
+        },
+        "description": {
+            "type": "string"
+        }
+    }
+}
