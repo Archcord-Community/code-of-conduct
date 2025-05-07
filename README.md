@@ -41,7 +41,9 @@ These policies ensure a safe and respectful environment for all our members.
 
 ### 1.1 - Discrimination <a name="11---discrimination"></a>
 
-We do not tolerate any form of discrimination, including transphobia, homophobia, xenophobia, racism, and other similar behaviors. Our community is inclusive, and any discriminatory actions may result in moderation action.
+We do not tolerate any form of discrimination based on a person's gender, sexuality, race, religion, ethnicity,
+nationality, language, age, body size, and other aspects of their identity. Our community is inclusive, and any
+discriminatory actions may result in moderation action.
 
 **Punishment Escalation:**
 - **First Offense (Mild):** You will receive a private ticket explaining the issue and guidance for improvement.
