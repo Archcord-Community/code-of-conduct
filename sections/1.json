@@ -1,0 +1,80 @@
+{
+    "$schema": "https://raw.githubusercontent.com/amadaluzia/archcord-code-of-conduct/refs/heads/main/schema.json",
+    "title": "General Community Policies",
+    "description": "By joining the Archcord community, you agree to follow this Code of Conduct as it exists at the time of joining—and as it is updated over time. You also agree to comply with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). Failure to comply may result in your removal from our community.",
+    "rules": [
+        {
+            "rule": "Discrimination",
+            "description": "We condemn any form of discrimination based on a person's gender, sexuality, race, religion, ethnicity, nationality, language, age, body size, and other aspects of their identity. Our community is inclusive, and any discriminatory actions may result in moderation action.",
+            "escalations": [
+                "**First Instance (Mild):** You will receive a private ticket explaining the issue and guidance for improvement. Repetitive discrimination will lead to a severe escalation.",
+                "**Severe or Repeated Instances:** You may be banned immediately, especially for the use of slurs or overt discrimination."
+            ]
+        },
+        {
+            "rule": "Age Requirements",
+            "description": "By joining, you confirm that you are old enough to use discord as per their terms of service. The minimum age is 13, but it can be up to 16 in some places. You can find the official list [here](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday). Note that having the minimum age requirement does not permit explicit or adult jokes given our diverse age group.",
+            "escalations": [
+                "If you are found to be under the minimum age requirement, you will be banned for a minimum of 3 years with no possibility of appeal."
+            ]
+        },
+        {
+            "rule": "Safe for Work Environment",
+            "description": "We aim to maintain a Safe For Work (SFW) space for everyone. This includes guidelines for all forms of NSFW content.",
+            "escalations": [
+                "**First Instance:** You may receive a ticket about said content and a warn.",
+                "**Repeated Instances:** For repeated offences or if the content is deemed severe, a moderator will mute, kick, or a ban you."
+            ],
+            "glossary": [
+                {
+                    "word": "NSFW content",
+                    "meaning": "NSFW content is content that appears on your profile or messages that include sexually explicit, or visually disturbing (gore, animal abuse, excessive violence, self-harm or suicide) content."
+                }
+            ]
+        },
+        {
+            "rule": "Anti-Elitism",
+            "description": "Elitist behavior is not acceptable. Dismissing newcomers with comments like \"RTFM\" or \"Read the Fucking Manual\" undermines our community spirit.",
+            "escalations": [
+                "**First Instance:** You will be ticketed, and your behavior will be addressed.",
+                "**Repeated Instances:** Repeated offences will result in removal from the community."
+            ]
+        },
+        {
+            "rule": "Cross-Server Drama",
+            "description": "We strive to keep our community drama-free by avoiding issues from other servers. This includes discussing our issues in other communities when unwarranted. You are welcome to point out our issues and we actually welcome criticism in such way, but if criticism is falsified or manipulated we reserve the right to remove you from the community.",
+            "escalations": [
+                "**First Instance:** You may receive a ticket and a warning.",
+                "**Repeated Instances:** Continued behavior will lead to removal."
+            ]
+        },
+        {
+            "rule": "Personally Identifiable Information",
+            "description": "Do not share personal information about others (e.g., real names, phone numbers, emails, addresses) without explicit consent.",
+            "escalations": [
+                "Depending on the severity, you may be ticketed or removed immediately"
+            ]
+        },
+        {
+            "rule": "Discussion of Piracy",
+            "description": "While discussions around piracy may occur, promoting or sharing sources, resources, or links related to piracy is prohibited.",
+            "escalations": [
+                "Depending on severity, you may be ticketed or removed immediately."
+            ]
+        },
+        {
+            "rule": "Bot Commands",
+            "description": "Please use designated channels for bot commands to ensure clear conversation flow. You cannot abuse bots by repeatedly spamming the bot commands, because that can have a negative impact on the bot's performance.",
+            "escalations": [
+                "Depending on severity, you may receive a ticket."
+            ]
+        },
+        {
+            "rule": "Harassment of Members",
+            "description": "Harrassing members in server or in DMs is not tolerated. We will not accept malicious interactions with a member and if you do so, we reserve the right to remove you from the server.",
+            "escalations": [
+              "Depending on severity, you may receive a ticket or be removed from the server."
+            ]
+        }
+    ]
+}

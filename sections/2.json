@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/amadaluzia/archcord-code-of-conduct/refs/heads/main/schema.json",
+    "title": "Voice Activity Conduct",
+    "description": "Voice channels have more relaxed guidelines but still require respectful behavior.",
+    "rules": [
+        {
+            "rule": "Music Bot Trolling",
+            "description": "Interrupting music sessions (e.g., mass skipping or altering the queue) is not allowed. Please wait your turn or use a separate voice channel.",
+            "escalations": [
+                "Depending on severity, you may be ticketed or removed."
+            ]
+
+        },
+        {
+            "rule": "Sound Spam",
+            "description": "Spamming soundboard clips or audio in voice channels disrupts conversation and is prohibited.",
+            "escalations": [
+                "Depending on severity, you may be ticketed."
+            ]
+        },
+        {
+            "rule": "Streamed Content",
+            "description": "All streamed content must comply with our SFW policies and piracy guidelines. Streaming content you haven't legally purchased is not allowed.",
+            "escalations": [
+                "Depending on severity, you may be ticketed or removed."
+            ]
+        }
+    ]
+}
