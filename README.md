@@ -131,7 +131,8 @@ While discussions around piracy may occur, promoting or sharing sources, resourc
 
 ### 1.8 - Bot Commands <a name="18---bot-commands"></a>
 
-Please use designated channels for bot commands to ensure clear conversation flow.
+Please use designated channels for bot commands to ensure clear conversation flow. You cannot abuse bots by repeatedly
+spamming the bot commands, because that can have a negative impact on the bot's performance.
 
 **Punishment Escalation:**
 - Depending on severity, you may receive a ticket.
