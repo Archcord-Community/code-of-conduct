@@ -41,7 +41,9 @@ These policies ensure a safe and respectful environment for all our members.
 
 ### 1.1 - Discrimination <a name="11---discrimination"></a>
 
-We do not tolerate any form of discrimination, including transphobia, homophobia, xenophobia, racism, and other similar behaviors. Our community is inclusive, and any discriminatory actions may result in moderation action.
+We do not tolerate any form of discrimination based on a person's gender, sexuality, race, religion, ethnicity,
+nationality, language, age, body size, and other aspects of their identity. Our community is inclusive, and any
+discriminatory actions may result in moderation action.
 
 **Punishment Escalation:**
 - **First Offense (Mild):** You will receive a private ticket explaining the issue and guidance for improvement.
@@ -65,16 +67,22 @@ Note that having the minimum age requirement does not permit explicit or adult j
 We aim to maintain a Safe For Work (SFW) space for everyone. This includes guidelines for all forms of shared content:
 
 #### 1.3.1 - Sexually Explicit Messages
-- **Guideline:** All messages must be safe for work. Explicit content (images, videos, etc.) is prohibited.
+- **Guideline:** All messages must be safe for work. Explicit content (written, visual, auditory, or any other form) is prohibited.
 
-#### 1.3.2 - Sexually Explicit User Profiles
-- **Guideline:** Profile content must remain appropriate for a community that includes minors.
+#### 1.3.2 - Inappropriate User Profiles
+- **Guideline:** Profile content must remain appropriate for a community that includes minors, and adults. It cannot be
+  sexually explicit, and/or hateful towards individuals/groups that are generally considered to be not harmful for
+  society. Although you can have your own opinion about who's harmful or not, we will follow the widely accepted
+  standards of society to define what's harmful or not
 
 #### 1.3.3 - Animal Abuse, Gore, and Excessive Violence
 - **Guideline:** Do not share content depicting animal abuse, graphic gore, or excessive violence.
 
 #### 1.3.4 - Self-Harm and Suicide
-- **Guideline:** Content related to self-harm or suicide is not allowed. Using such topics manipulatively will result in immediate removal.
+- **Guideline:** Content related to self-harm or suicide is not allowed. Using such topics in a manipulative/negative
+  way will result in immediate removal. We would also recommend not talking about these topics, because it might trigger
+  someone that are facing the same issues in their own life, or they have someone close that has/had dealt with issues
+  like this in the past.
 
 **Punishment Escalation:**
 - **First Offense:** You may receive a ticket unless the content is deemed severe, in which case a moderator may remove you immediately.
@@ -123,7 +131,8 @@ While discussions around piracy may occur, promoting or sharing sources, resourc
 
 ### 1.8 - Bot Commands <a name="18---bot-commands"></a>
 
-Please use designated channels for bot commands to ensure clear conversation flow.
+Please use designated channels for bot commands to ensure clear conversation flow. You cannot abuse bots by repeatedly
+spamming the bot commands, because that can have a negative impact on the bot's performance.
 
 **Punishment Escalation:**
 - Depending on severity, you may receive a ticket.
