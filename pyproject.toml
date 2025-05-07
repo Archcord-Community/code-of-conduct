@@ -1,0 +1,11 @@
+[project]
+name = "archcord-code-of-conduct"
+version = "2025.05.07"
+requires-python = ">= 3.12"
+
+[project.scripts]
+archcord-coc-markdown = "archcord-coc-markdown"
+
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
