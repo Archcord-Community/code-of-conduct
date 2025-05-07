@@ -67,7 +67,7 @@ Note that having the minimum age requirement does not permit explicit or adult j
 We aim to maintain a Safe For Work (SFW) space for everyone. This includes guidelines for all forms of shared content:
 
 #### 1.3.1 - Sexually Explicit Messages
-- **Guideline:** All messages must be safe for work. Explicit content (images, videos, etc.) is prohibited.
+- **Guideline:** All messages must be safe for work. Explicit content (written, visual, auditory, or any other form) is prohibited.
 
 #### 1.3.2 - Sexually Explicit User Profiles
 - **Guideline:** Profile content must remain appropriate for a community that includes minors.
