@@ -1,5 +1,5 @@
 # The Archcord Code of Conduct
-**Last Edited: May 10, 2025 - 02:04 BST**
+## Last Edited: May 10, 2025 - 02:04 BST
 **This Code of Conduct only applies to the "Archcord" community found at https://discord.gg/QA4Q2pKTGY, for more information please see announcement channels.**
 
 Welcome to the official Archcord community Code of Conduct! We are an inclusive Linux community dedicated to neutrality, moderation transparency, and active community engagement. By joining Archcord, you agree to abide by the rules below as well as Discord's [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).
