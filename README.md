@@ -1,5 +1,8 @@
 # The Archcord Code of Conduct
 
+## Last Edited: May 10, 2025 - 02:04 BST
+**This Code of Conduct only applies to the "Archcord" community found at https://discord.gg/QA4Q2pKTGY, for more information please see announcement channels.**
+
 ## Last edited: 10/05/2025, 14:02:03
 
 **This Code of Conduct only applies to the "Archcord" community found at https://discord.gg/QA4Q2pKTGY, for more information please see announcement channels.**---
@@ -10,7 +13,7 @@ Welcome to the official Archcord community Code of Conduct! We are an inclusive 
 
 ## Preface
 
-By joining the Archcord community, you agree to follow this Code of Conduct as it exists at the time of joining—and as it is updated over time. You also agree to comply with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). Failure to comply may result in your removal from our community.
+By joining the Archcord community, you agree to follow this Code of Conduct as it exists at the time of joiningï¿½and as it is updated over time. You also agree to comply with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). Failure to comply may result in your removal from our community.
 
 ---
 
@@ -38,7 +41,7 @@ By joining the Archcord community, you agree to follow this Code of Conduct as i
 
 ## Section 1 - General Community Policies <a name="generalcommunitypolicies"></a>
 
-By joining the Archcord community, you agree to follow this Code of Conduct as it exists at the time of joining—and as it is updated over time. You also agree to comply with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). Failure to comply may result in your removal from our community.
+By joining the Archcord community, you agree to follow this Code of Conduct as it exists at the time of joiningï¿½and as it is updated over time. You also agree to comply with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). Failure to comply may result in your removal from our community.
 
 ### 1.1 - Discrimination <a name="section1-rule1---discrimination"></a>
 
