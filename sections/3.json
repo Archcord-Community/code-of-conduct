@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/amadaluzia/archcord-code-of-conduct/refs/heads/main/schema.json",
+    "title": "Moderation Policies",
+    "description": "By joining Archcord, you acknowledge our moderation practices.",
+    "rules": [
+        {
+            "rule": "Moderator Discretion",
+            "description": "Moderators have the authority to remove members for valid reasons. However, you have the right to communicate if you disagree with a decision. Moderators must exercise their discretion fairly.",
+            "escalations": []
+        },
+        {
+            "rule": "Moderation Transparency",
+            "description": "All moderation logs are publicly viewable to maintain transparency. If you have concerns or need clarifications, please open a ticket rather than discussing in general channels.",
+            "escalations": []
+        },
+        {
+            "rule": "Administrator Unsuitability",
+            "description": "If the community deems an administrator unfit, a public vote will be held. A 30-day transition period is provided during which the outgoing administrator remains until a successor is elected. For this process to proceed, at least 90% of the total community must agree via poll.",
+            "escalations": []
+        },
+        {
+            "rule": "Administrator Privilege",
+            "description": "Administrators may remove any member deemed unfit for the community, even if they are following the Code of Conduct. This power is not absolute and can be challenged. However, sensitive matters may require administrators to withhold specific details.",
+            "escalations": []
+        }
+    ]
+}
