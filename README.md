@@ -27,6 +27,7 @@ Welcome to the official Archcord community Code of Conduct! We are an inclusive 
    - [3.2 Moderation Transparency](#32---moderation-transparency)
    - [3.3 Administrator Unsuitability](#33---administrator-unsuitability)
    - [3.4 Administrator Privilege](#34---administrator-privilege)
+   - [3.5 Usability Clause](#35---usability-clause)
 
 ---
 
@@ -204,6 +205,21 @@ If the community deems an administrator unfit, a public vote will be held. A 30-
 ### 3.4 - Administrator Privilege <a name="34---administrator-privilege"></a>
 
 Administrators may remove any member deemed unfit for the community, even if they are following the Code of Conduct. This power is not absolute and can be challenged. However, sensitive matters may require administrators to withhold specific details.
+
+---
+
+### 3.5 - Usability Clause <a name="35---usability-clause"></a>
+
+Unless explicitely given written permission by an administrator of the Archcord Community you may not:
+ - Use this for your community.
+ - Take snippets of this for AI training.
+ - Direct copy clauses.
+
+You may:
+ - Fork this to contribute to Archcord.
+ - Use this for inspiration.
+ - Use this for references in research, content creation or other similar acts.
+ - Use this as a reference for critisicm.
 
 ---
 
