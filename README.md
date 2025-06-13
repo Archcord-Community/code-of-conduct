@@ -18,6 +18,7 @@ Welcome to the official Archcord community Code of Conduct! We are an inclusive 
    - [1.7 Discussion of Piracy](#17---discussion-of-piracy)
    - [1.8 Bot Commands](#18---bot-commands)
    - [1.9 Harassment of Members](#19---harassment-of-members)
+   - [1.10 No Politics](#110---no-politics)
 3. [Voice Activity Conduct](#section-2---voice-activity-conduct)
    - [2.1 Music Bot Trolling](#21---music-bot-trolling)
    - [2.2 Sound Spam](#22---sound-spam)
@@ -148,6 +149,12 @@ Harrassing members in server or in DMs is not tolerated. We will not accept mali
 - Depending on severity, you may receive a ticket or be removed from the server.
 
 ---
+
+### 1.10 - No Politics
+In Archcord we do not tolerate politics, this is due to the tension they cause and the fact they cause arguments. This is not a community we want, and we desire to remain apolitical and ensure that everyone is seen, heard and can get the help they need, regardless of political views.
+
+**Punishment Escalation:**
+You will be warned verbally, continued escalation may result in a mute and eventually a ban.
 
 ## Section 2 - Voice Activity Conduct <a name="section-2---voice-activity-conduct"></a>
 
