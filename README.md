@@ -1,190 +1,190 @@
-# The Archcord Code of Conduct
-## Last Edited: August 7th, 2025 - 17:32 BST
-**This code of conduct applies exclusively to Archcord communities on Discord, Revolt & other future platforms. Derivatives of Archcord may utilise this.**
+# De Gedragscode van Archcord
+## Laatst bewerkt: 7 augustus 2025 - 17:32 BST
+**Deze gedragscode is uitsluitend van toepassing op Archcord communities op Discord, Revolt & andere toekomstige platforms. Afgeleiden van Archcord mogen hier gebruik van maken.**
 
 ---
 
-## Table of Contents
-1. [Preface](#preface)
-2. [Phrasings](#phrasings)
-3. [General Community Policies](#section-1---general-community-policies)
-   - [1.1 Discrimination](#11---discrimination)
-   - [1.2 Age Requirements](#12---age-requirements)
-   - [1.3 Safe for Work Environment](#13---safe-for-work-environment)
-   - [1.4 Anti-Elitism](#14---anti-elitism)
-   - [1.5 Cross-Server Drama](#15---cross-server-drama)
-   - [1.6 Personally Identifiable Information](#16---personally-identifiable-information)
-   - [1.7 Discussion of Piracy](#17---discussion-of-piracy)
-   - [1.8 Bot Commands](#18---bot-commands)
-   - [1.9 Harassment of Members](#19---harassment-of-members)
-   - [1.10 No Politics](#110---no-politics)
-4. [Voice Activity Conduct](#section-2---voice-activity-conduct)
-   - [2.1 Music Bot Trolling](#21---music-bot-trolling)
-   - [2.2 Sound Spam](#22---sound-spam)
-   - [2.3 Streamed Content](#23---streamed-content)
-5. [Moderation Policies](#section-3---moderation-policies)
-   - [3.1 Moderator Discretion](#31---moderator-discretion)
-   - [3.2 Moderation Transparency](#32---moderation-transparency)
-   - [3.3 Administrator Unsuitability](#33---administrator-unsuitability)
-   - [3.4 Administrator Privilege](#34---administrator-privilege)
-   - [3.5 Usability Clause](#35---usability-clause)
+## Inhoudsopgave
+1. [Voorwoord](#voorwoord)
+2. [Zinnen](#zinnen)
+3. [Algemeen gemeenschapsbeleid](#sectie-1---algemeen-gemeenschapsbeleid)
+   - [1.1 Discriminatie](#1-1---discriminatie)
+   - [1.2 Leeftijdsvereisten](#1-2---leeftijdsvereisten)
+   - [1.3 Veilig werken](#1-3---veilig-werken)
+   - [1.4 Anti-Elitisme](#1-4---anti-elitisme)
+   - [1.5 Serveroverschrijdend drama](#1-5---serveroverschrijdend-drama)
+   - [1.6 Persoonlijk identificeerbare informatie](#1-6---persoonlijk-identificeerbare-informatie)
+   - [1.7 Discussie over piraterij](#1-7---discussie-over-piraterij)
+   - [1.8 Bot commando's](#1-8---bot-commando-s)
+   - [1.9 Intimidatie van leden](#1-9---intimidatie-van-leden)
+   - [1.10 Geen politiek](#1-10---geen-politiek)
+4. [Gedrag stemactiviteiten](#sectie-2---gedrag-stemactiviteiten)
+   - [2.1 Muziek Bot Trollen](#2-1---muziek-bot-trollen)
+   - [2.2 Geluidsspam](#2-2---geluidsspam)
+   - [2.3 Gestreamde inhoud](#2-3---gestreamde-inhoud)
+5. [Moderatiebeleid](#sectie-3---moderatiebeleid)
+   - [3.1 Moderator Discretie](#3-1---moderator-discretie)
+   - [3.2 Transparantie](#3-2---transparantie)
+   - [3.3 Ongeschiktheid beheerder](#3-3---ongeschiktheid-van-een-beheerder)
+   - [3.4 Administrator Voorrecht](#3-4---beheerdersprivileges)
+   - [3.5 Bruikbaarheid Clausule](#3-5---gebruiksclausule)
 
 ---
 
-## Preface <a name="preface"></a>
+## Voorwoord <a name="voorwoord"></a>
 
-By joining the Archcord community, you agree to follow this Code of Conduct as it exists at the time of joining — and as it is updated over time. You also agree to comply with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). Failure to comply may result in your removal from our community.
-
----
-
-## Phrasings
-Administrator - Owner of the Community (Amilie, TwoCold/Green)
+Door lid te worden van de Archcord community, ga je ermee akkoord deze Gedragscode te volgen zoals deze bestaat op het moment van toetreding - en zoals deze na verloop van tijd wordt bijgewerkt. Je gaat er ook mee akkoord te voldoen aan Discord's [Terms of Service](https://discord.com/terms) en [Community Guidelines](https://discord.com/guidelines). Als je je hier niet aan houdt, kan dit leiden tot verwijdering uit onze community.
 
 ---
 
-## Section 1 - General Community Policies <a name="section-1---general-community-policies"></a>
-
-These policies ensure a safe and respectful environment for all our members.
-
-### 1.1 - Discrimination <a name="11---discrimination"></a>
-
-We do not tolerate any form of discrimination based on a person's gender, sexuality, race, religion, ethnicity,
-nationality, language, age, body size, and other aspects of their identity. Our community is inclusive, and any
-discriminatory actions may result in moderation action, depending on severity.
+## Zinnen <a name="zinnen"></a>
+Beheerder - Eigenaar van de community (Amilie, TwoCold/Green)
 
 ---
 
-### 1.2 - Age Requirements <a name="12---age-requirements"></a>
+## Sectie 1 - Algemeen Gemeenschapsbeleid <a name="sectie-1---algemeen-gemeenschapsbeleid"></a>
 
-By joining Archcord, you must be of the legal age in your jurisdiction to use our platforms. For Discord, you can review the conditions [here.](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday) Whereas for Revolt, you can review the conditions [here.](https://support.revolt.chat/kb/safety/minimum-age-guidelines) Generally, you must be over 13, if users are found underage they will have their access to Archcord, and potentially partnered servers, revoked for at minimum 2 years.
+Dit beleid zorgt voor een veilige en respectvolle omgeving voor al onze leden.
 
-Just because we have this condition does not mean you can make not safe for work jokes, see [1.3 Safe for Work Environment](#13---safe-for-work-environment) for more information.
+### 1.1 - Discriminatie <a name="1-1---discriminatie"></a>
 
----
-
-### 1.3 - Safe for Work Environment <a name="13---safe-for-work-environment"></a>
-
-We aim to maintain a Safe For Work (SFW) space for everyone. This includes guidelines for all forms of shared content:
-
-#### 1.3.1 - Sexually Explicit Messages
-- All messages must be safe for work. Explicit content (written, visual, auditory, or any other form) is prohibited.
-
-#### 1.3.2 - Inappropriate User Profiles
-- Profile content must remain appropriate for a community that includes minors, and adults. It cannot be
-  sexually explicit, and/or hateful towards individuals/groups that are generally considered to be not harmful for
-  society. Although you can have your own opinion about who's harmful or not, we will follow the widely accepted
-  standards of society to define what's harmful or not.
-
-#### 1.3.3 - Animal Abuse, Gore, and Excessive Violence
-- Do not share content depicting animal abuse, graphic gore, or excessive violence.
-
-#### 1.3.4 - Self-Harm and Suicide
-- Content related to self-harm or suicide is not allowed. Using such topics in a manipulative/negative
-  way will result in immediate removal. We would also recommend not talking about these topics, because it might trigger
-  someone that are facing the same issues in their own life, or they have someone close that has/had dealt with issues
-  like this in the past.
+We tolereren geen enkele vorm van discriminatie op basis van geslacht, seksualiteit, ras, religie, etniciteit, nationaliteit, taal, leeftijd, lichaamsgrootte en andere aspecten van iemands identiteit. Onze gemeenschap is inclusief en discriminerende acties kunnen leiden tot moderatie, afhankelijk van de ernst.
 
 ---
 
-### 1.4 - Anti-Elitism <a name="14---anti-elitism"></a>
+### 1.2 - Leeftijdsvereisten <a name="1-2---leeftijdsvereisten"></a>
 
-Elitist behavior is not acceptable. Dismissing newcomers with comments like "RTFM" or "Read the Fucking Manual" undermines our community spirit. Additionally, knocking people for using certain distributions (eg. Ubuntu, Manjaro, Fedora or others) is not tolerated as we have a policy of welcoming all regardless of distribution.
+Als je lid wordt van Archcord, moet je de wettelijke leeftijd hebben om onze platforms te gebruiken. Voor Discord kun je de voorwaarden [hier](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday) bekijken. Voor Revolt kun je de voorwaarden [hier](https://support.revolt.chat/kb/safety/minimum-age-guidelines) bekijken. Over het algemeen moet je ouder zijn dan 13. Als gebruikers minderjarig worden bevonden, wordt hun toegang tot Archcord, en mogelijk tot partner-servers, voor minimaal 2 jaar ingetrokken.
 
-### 1.5 - Cross-Server Drama <a name="15---cross-server-drama"></a>
-
-You're welcome to discuss Archcord's internal matters—even outside the community—as long as it's done truthfully and respectfully. Deliberate falsification or manipulation may result in removal. Likewise, please don't bring drama or disputes from other communities into Archcord—we're here to keep things constructive and drama-free.
+Alleen omdat we deze voorwaarde hebben betekent niet dat je niet veilig voor werk grappen kunt maken, zie [1.3 Veilig voor werkomgeving](#1-3---veilig-werken) voor meer informatie.
 
 ---
 
-### 1.6 - Personally Identifiable Information <a name="16---personally-identifiable-information"></a>
+### 1.3 - Veilig werken <a name="1-3---veilig-werken"></a>
 
-Do not share personal information about others (e.g., real names, phone numbers, emails, addresses) without explicit consent. Doing so may result in immediate removal from the community.
+We streven naar een veilige werkomgeving voor iedereen. Dit omvat richtlijnen voor alle vormen van gedeelde inhoud:
 
----
+#### 1.3.1 - Seksueel expliciete berichten
 
-### 1.7 - Discussion of Piracy <a name="17---discussion-of-piracy"></a>
+Alle berichten moeten veilig zijn voor het werk. Expliciete inhoud (geschreven, visueel, auditief of enige andere vorm) is verboden.
 
-While discussions around piracy may occur, promoting or sharing sources, resources, or links related to piracy is prohibited. A moderator reserves the right to withdraw from a conversation, withhold a conversation or stop a conversation regarding this topic at any time. Failure to stop when asked will result in punishment.
+#### 1.3.2 - Ongepaste gebruikersprofielen
 
----
+De inhoud van profielen moet geschikt blijven voor een gemeenschap die minderjarigen en volwassenen omvat. Het mag niet seksueel expliciet zijn en/of haatdragend naar individuen/groepen die algemeen beschouwd worden als niet schadelijk voor de samenleving.
 
-### 1.8 - Bot Commands <a name="18---bot-commands"></a>
+Hoewel je je eigen mening kunt hebben over wie schadelijk is en wie niet, zullen we de algemeen aanvaarde normen van de samenleving volgen om te bepalen wat schadelijk is en wat niet.
 
-Please use designated channels for bot commands to ensure clear conversation flow. You cannot abuse bots by repeatedly spamming the bot commands, as that will not only flood chat, but may have a negative impact on the bots performance affecting other members.
+#### 1.3.3 - Dierenmishandeling, grof vuil en buitensporig geweld
 
----
+Deel geen inhoud met dierenmishandeling, grof vuil of buitensporig geweld.
 
-### 1.9 - Harassment of Members
-Harrassing members in server or in DMs is not tolerated. We will not accept malicious interactions with a member and if you do so, we reserve the right to remove you from the server.
+#### 1.3.4 - Zelfbeschadiging en zelfmoord
 
----
-
-### 1.10 - No Politics
-In Archcord we do not tolerate politics, this is due to the tension they cause and the fact they cause arguments. This is not a community we want, and we desire to remain apolitical and ensure that everyone is seen, heard and can get the help they need, regardless of political views.
-
-## Section 2 - Voice Activity Conduct <a name="section-2---voice-activity-conduct"></a>
-
-Voice channels have more relaxed guidelines but still require respectful behavior.
-
-### 2.1 - Music Bot Trolling <a name="21---music-bot-trolling"></a>
-
-Interrupting music sessions (e.g., mass skipping or altering the queue) is not allowed. Please wait your turn or use a separate voice channel.
+Inhoud met betrekking tot zelfbeschadiging of zelfmoord is niet toegestaan. Het gebruik van dergelijke onderwerpen op een manipulatieve/negatieve manier zal resulteren in onmiddellijke verwijdering. We raden ook aan om niet over deze onderwerpen te praten, omdat het iemand kan triggeren die in zijn of haar eigen leven met dezelfde problemen te maken heeft of iemand in zijn of haar omgeving heeft die in het verleden met dit soort problemen te maken heeft gehad.
 
 ---
 
-### 2.2 - Sound Spam <a name="22---sound-spam"></a>
+### 1.4 - Anti-Elitisme <a name="1-4---anti-elitisme"></a>
 
-Spamming soundboard clips or audio in voice channels disrupts conversation and is prohibited. It may result in being server muted or removed from the voice channel.
+Elitair gedrag is niet aanvaardbaar. Nieuwkomers afwijzen met opmerkingen als "RTFM" of "Read the Fucking Manual" ondermijnt onze gemeenschapszin. Daarnaast wordt het afkraken van mensen voor het gebruik van bepaalde distributies (bijv. Ubuntu, Manjaro, Fedora of anderen) niet getolereerd, omdat we een beleid hebben dat iedereen verwelkomt, ongeacht de distributie.
 
----
+### 1.5 - Serveroverschrijdend drama <a name="1-5---serveroverschrijdend-drama"></a>
 
-### 2.3 - Streamed Content <a name="23---streamed-content"></a>
-
-All streamed content must comply with our SFW policies and piracy guidelines. Streaming content you haven't legally purchased is not allowed and may result in removal from the community.
+Je bent welkom om interne zaken van Archcord te bespreken, zelfs buiten de gemeenschap, zolang het eerlijk en respectvol gebeurt. Opzettelijke vervalsing of manipulatie kan leiden tot verwijdering. Breng ook geen drama of geschillen van andere gemeenschappen naar Archcord - we zijn hier om dingen constructief en drama-vrij te houden.
 
 ---
 
-## Section 3 - Moderation Policies <a name="section-3---moderation-policies"></a>
+### 1.6 - Persoonlijk identificeerbare informatie <a name="1-6---persoonlijk-identificeerbare-informatie"></a>
 
-By joining Archcord, you acknowledge our moderation practices.
-
-### 3.1 - Moderator Discretion <a name="31---moderator-discretion"></a>
-
-Moderators have the authority to remove members for valid reasons. However, you have the right to communicate if you disagree with a decision using our ticketing system. Moderators must exercise their discretion fairly.
+Deel geen persoonlijke informatie over anderen (zoals echte namen, telefoonnummers, e-mails, adressen) zonder uitdrukkelijke toestemming. Als u dit wel doet, kan dit leiden tot onmiddellijke verwijdering uit de community.
 
 ---
 
-### 3.2 - Moderation Transparency <a name="32---moderation-transparency"></a>
+### 1.7 - Discussie over piraterij <a name="1-7---discussie-over-piraterij"></a>
 
-All moderation logs are publicly viewable to maintain transparency. If you have concerns or need clarifications, please open a ticket rather than discussing in general channels.
-
----
-
-### 3.3 - Administrator Unsuitability <a name="33---administrator-unsuitability"></a>
-
-If the community deems an administrator unfit, a public vote will be held. A 30-day transition period is provided during which the outgoing administrator remains until a successor is elected. For this process to proceed, at least **60% of the ENTIRE community** must agree via poll.
+Hoewel discussies over piraterij kunnen voorkomen, is het promoten of delen van bronnen, bronnen of links gerelateerd aan piraterij verboden. Een moderator behoudt zich het recht voor om zich op elk moment terug te trekken uit een gesprek, een gesprek tegen te houden of een gesprek over dit onderwerp te stoppen. Het niet stoppen wanneer dit wordt gevraagd zal resulteren in straf.
 
 ---
 
-### 3.4 - Administrator Privilege <a name="34---administrator-privilege"></a>
+### 1.8 - Bot commando's <a name="1-8---bot-commando-s"></a>
 
-Administrators may remove any member deemed unfit for the community, even if they are following the Code of Conduct. This power is not absolute and can be challenged. However, sensitive matters may require administrators to withhold specific details.
-
----
-
-### 3.5 - Usability Clause <a name="35---usability-clause"></a>
-
-Unless explicitely given written permission by an administrator of the Archcord Community you may not:
- - Use this for your community.
- - Take snippets of this for AI training.
- - Direct copy clauses.
-
-You may:
- - Fork this to contribute to Archcord.
- - Use this for inspiration.
- - Use this for references in research, content creation or other similar acts.
- - Use this as a reference for critisicm.
+Gebruik de aangewezen kanalen voor botcommando's om een duidelijke gespreksstroom te garanderen. Je kunt bots niet misbruiken door herhaaldelijk de botcommando's te spammen, omdat dit niet alleen de chat overspoelt, maar ook een negatieve invloed kan hebben op de prestaties van de bots op andere leden.
 
 ---
 
-*By being part of Archcord, you help create a safe, respectful, and inclusive community. Thank you for your cooperation!*
+### 1.9 - Intimidatie van leden <a name="1-9---intimidatie-van-leden"></a>
+
+Het lastigvallen van leden in de server of in DM's wordt niet getolereerd. We accepteren geen kwaadaardige interacties met een lid en als je dat wel doet, behouden we ons het recht voor om je van de server te verwijderen.
+
+---
+
+### 1.10 - Geen politiek <a name="1-10---geen-politiek"></a>
+
+In Archcord tolereren we geen politiek, vanwege de spanningen die ze veroorzaken en het feit dat ze ruzies veroorzaken. Dit is niet een gemeenschap die we willen, en we willen apolitiek blijven en ervoor zorgen dat iedereen wordt gezien, gehoord en de hulp kan krijgen die ze nodig hebben, ongeacht politieke opvattingen.
+
+## Sectie 2 - Gedrag stemactiviteiten <a name="sectie-2---gedrag-stemactiviteiten"></a>
+
+Spraakkanalen hebben meer ontspannen richtlijnen, maar vereisen nog steeds respectvol gedrag.
+
+### 2.1 - Muziek Bot Trollen <a name="2-1---muziek-bot-trollen"></a>
+
+Het onderbreken van muzieksessies (bijv. massaal overslaan of de wachtrij wijzigen) is niet toegestaan. Wacht op je beurt of gebruik een apart spraakkanaal.
+
+---
+
+### 2.2 - Geluidsspam <a name="2-2---geluidsspam"></a>
+
+Het spammen van soundboardclips of audio in spraakkanalen verstoort gesprekken en is verboden. Dit kan resulteren in een server-mute of verwijdering uit het spraakkanaal.
+
+---
+
+### 2.3 - Gestreamde inhoud <a name="2-3---gestreamde-inhoud"></a>
+
+Alle gestreamde inhoud moet voldoen aan ons SFW-beleid en de richtlijnen voor piraterij. Het streamen van content die je niet legaal hebt gekocht is niet toegestaan en kan leiden tot verwijdering uit de community.
+
+---
+
+## Sectie 3 - Moderatiebeleid <a name="sectie-3---moderatiebeleid"></a>
+
+Door lid te worden van Archcord, accepteer je onze moderatiepraktijken.
+
+### 3.1 - Moderator Discretie <a name="3-1---moderator-discretie"></a>
+
+Moderators hebben de bevoegdheid om leden te verwijderen om geldige redenen. Je hebt echter het recht om te communiceren als je het niet eens bent met een beslissing via ons ticketing systeem. Moderators moeten hun discretie eerlijk uitoefenen.
+
+---
+
+### 3.2 - Transparantie <a name="3-2---transparantie"></a>
+
+Alle moderatie logs zijn publiekelijk zichtbaar om transparantie te behouden. Als je je zorgen maakt of verduidelijking nodig hebt, open dan een ticket in plaats van te discussiëren in algemene kanalen.
+
+---
+
+### 3.3 - Ongeschiktheid van een beheerder <a name="3-3---ongeschiktheid-van-een-beheerder"></a>
+
+Als de gemeenschap een beheerder ongeschikt acht, wordt er een publieke stemming gehouden. Er wordt een overgangsperiode van 30 dagen voorzien waarin de vertrekkende beheerder blijft tot er een opvolger is gekozen. Om dit proces door te laten gaan, moet minstens 60% van de ENIGE gemeenschap instemmen via een poll.
+
+---
+
+### 3.4 - Beheerdersprivileges <a name="3-4---beheerdersprivileges"></a>
+
+Beheerders kunnen elk lid verwijderen dat ze ongeschikt achten voor de gemeenschap, zelfs als ze de gedragscode volgen. Deze bevoegdheid is niet absoluut en kan worden aangevochten. Bij gevoelige zaken kan het echter nodig zijn dat beheerders specifieke details achterhouden.
+
+---
+
+### 3.5 - Gebruiksclausule <a name="3-5---gebruiksclausule"></a>
+
+Tenzij expliciet schriftelijke toestemming is gegeven door een beheerder van de Archcord Community mag je niet:
+ - Dit gebruiken voor je community.
+ - Fragmenten hiervan overnemen voor AI-training.
+ - Directe kopie clausules.
+
+Je mag:
+ - Dit forken om bij te dragen aan Archcord.
+ - Dit gebruiken voor inspiratie.
+ - Dit gebruiken voor referenties bij onderzoek, het maken van inhoud of andere soortgelijke handelingen.
+ - Gebruik dit als referentie voor kritiek.
+
+---
+
+*Door deel uit te maken van Archcord help je een veilige, respectvolle en inclusieve gemeenschap te creëren. Bedankt voor je medewerking!*
