@@ -56,9 +56,9 @@ discriminatory actions may result in moderation action, depending on severity.
 
 ### 1.2 - Age Requirements <a name="12---age-requirements"></a>
 
-By joining Archcord, you must be of the legal age in your jurisdiction to use the platform "Discord" which you can review[here.](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday). Generally, you must be over 13, if users are found underage they will have their access to Archcord, and potentially partnered servers, revoked for at minimum 2 years.
+By joining Archcord, you must be of the legal age in your jurisdiction to use our platforms. For Discord, you can review the conditions [here.](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday). Whereas for Revolt, you can review the conditions [here.](https://support.revolt.chat/kb/safety/minimum-age-guidelines) Generally, you must be over 13, if users are found underage they will have their access to Archcord, and potentially partnered servers, revoked for at minimum 2 years.
 
-Just because we have this condition does not mean you can make make not safe for work jokes, see [1.3 Safe for Work Environment](#13---safe-for-work-environment) for more information.
+Just because we have this condition does not mean you can make not safe for work jokes, see [1.3 Safe for Work Environment](#13---safe-for-work-environment) for more information.
 
 ---
 
