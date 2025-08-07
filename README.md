@@ -90,6 +90,8 @@ We aim to maintain a Safe For Work (SFW) space for everyone. This includes guide
 
 Elitist behavior is not acceptable. Dismissing newcomers with comments like "RTFM" or "Read the Fucking Manual" undermines our community spirit. Additionally, knocking people for using certain distributions (eg. Ubuntu, Manjaro, Fedora or others) is not tolerated as we have a policy of welcoming all regardless of distribution.
 
+---
+
 ### 1.5 - Cross-Server Drama <a name="15---cross-server-drama"></a>
 
 You're welcome to discuss Archcord's internal matters—even outside the community—as long as it's done truthfully and respectfully. Deliberate falsification or manipulation may result in removal. Likewise, please don't bring drama or disputes from other communities into Archcord—we're here to keep things constructive and drama-free.
