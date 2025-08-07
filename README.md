@@ -73,7 +73,7 @@ We aim to maintain a Safe For Work (SFW) space for everyone. This includes guide
 - Profile content must remain appropriate for a community that includes minors, and adults. It cannot be
   sexually explicit, and/or hateful towards individuals/groups that are generally considered to be not harmful for
   society. Although you can have your own opinion about who's harmful or not, we will follow the widely accepted
-  standards of society to define what's harmful or not
+  standards of society to define what's harmful or not.
 
 #### 1.3.3 - Animal Abuse, Gore, and Excessive Violence
 - Do not share content depicting animal abuse, graphic gore, or excessive violence.
