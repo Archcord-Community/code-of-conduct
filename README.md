@@ -88,6 +88,8 @@ Inhoud met betrekking tot zelfbeschadiging of zelfmoord is niet toegestaan. Het 
 
 Elitair gedrag is niet aanvaardbaar. Nieuwkomers afwijzen met opmerkingen als "RTFM" of "Read the Fucking Manual" ondermijnt onze gemeenschapszin. Daarnaast wordt het afkraken van mensen voor het gebruik van bepaalde distributies (bijv. Ubuntu, Manjaro, Fedora of anderen) niet getolereerd, omdat we een beleid hebben dat iedereen verwelkomt, ongeacht de distributie.
 
+---
+
 ### 1.5 - Serveroverschrijdend drama <a name="1-5---serveroverschrijdend-drama"></a>
 
 Je bent welkom om interne zaken van Archcord te bespreken, zelfs buiten de gemeenschap, zolang het eerlijk en respectvol gebeurt. Opzettelijke vervalsing of manipulatie kan leiden tot verwijdering. Breng ook geen drama of geschillen van andere gemeenschappen naar Archcord - we zijn hier om dingen constructief en drama-vrij te houden.
