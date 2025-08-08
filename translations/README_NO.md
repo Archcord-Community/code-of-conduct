@@ -64,16 +64,16 @@ Bare fordi vi har denne tilstanden, betyr det ikke at du ikke kan gjøre det try
 
 Vi har som mål å opprettholde et trygt arbeidsmiljø for alle. Dette omfatter retningslinjer for alle former for delt innhold:
 
-#### 1.3.1 - <MISSING:section1_3_1_title>
+#### 1.3.1 - Seksuelt eksplisitte meldinger
 - Alle meldinger må være trygge for arbeidet. Eksplisitt innhold (skriftlig, visuelt, auditivt eller i annen form) er forbudt.
 
-#### 1.3.2 - <MISSING:section1_3_2_title>
+#### 1.3.2 - Upassende brukerprofiler
 - Profilinnholdet må være passende for et fellesskap som omfatter både mindreårige og voksne. Den kan ikke være seksuelt eksplisitt og/eller hatefull mot personer/grupper som generelt anses for ikke å være skadelige for samfunnet. Selv om du kan ha din egen mening om hvem som er skadelig eller ikke, vil vi følge de allment aksepterte standardene i samfunnet for å definere hva som er skadelig eller ikke.
 
-#### 1.3.3 - <MISSING:section1_3_3_title>
+#### 1.3.3 - Dyremishandling, blodige scener og overdreven vold
 - Ikke del innhold som viser dyremishandling, blodige bilder eller overdreven vold.
 
-#### 1.3.4 - <MISSING:section1_3_4_title>
+#### 1.3.4 - Selvskading og selvmord
 - Innhold relatert til selvskading eller selvmord er ikke tillatt. Bruk av slike emner på en manipulerende/negativ måte vil føre til umiddelbar fjerning. Vi anbefaler også å ikke snakke om disse temaene, fordi det kan trigge noen som står overfor de samme problemene i sitt eget liv, eller som har noen i sin omgangskrets som har eller har hatt slike problemer tidligere.
 
 ---
