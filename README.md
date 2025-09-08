@@ -27,7 +27,7 @@
    - [3.2 Moderation Transparency](#32---moderation-transparency)
    - [3.3 Administrator Unsuitability](#33---administrator-unsuitability)
    - [3.4 Administrator Privilege](#34---administrator-privilege)
-6. [Licensing](#section-6---licensing)
+6. [Licensing](#licensing)
 
 ---
 
@@ -174,7 +174,7 @@ Administrators may remove any member deemed unfit for the community, even if the
 
 ---
 
-## Section 6 - Licensing <a name="section-6---licensing"></a>
+## Licensing <a name="licensing"></a>
 
 This code of conduct is dedicated to the public domain under [Creative Commons Zero v1.0 Universal](LICENSE).
 
