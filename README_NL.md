@@ -27,7 +27,7 @@
    - [3.2 Transparantie](#3-2---transparantie)
    - [3.3 Ongeschiktheid beheerder](#3-3---ongeschiktheid-van-een-beheerder)
    - [3.4 Administrator Voorrecht](#3-4---beheerdersprivileges)
-   - [3.5 Bruikbaarheid Clausule](#3-5---gebruiksclausule)
+6. [Licens](licens)
 
 ---
 
@@ -174,18 +174,9 @@ Beheerders kunnen elk lid verwijderen dat ze ongeschikt achten voor de gemeensch
 
 ---
 
-### 3.5 - Gebruiksclausule <a name="3-5---gebruiksclausule"></a>
+## Licens <a name="licens"></a>
 
-Tenzij expliciet schriftelijke toestemming is gegeven door een beheerder van de Archcord Community mag je niet:
- - Dit gebruiken voor je community.
- - Fragmenten hiervan overnemen voor AI-training.
- - Directe kopie clausules.
-
-Je mag:
- - Dit forken om bij te dragen aan Archcord.
- - Dit gebruiken voor inspiratie.
- - Dit gebruiken voor referenties bij onderzoek, het maken van inhoud of andere soortgelijke handelingen.
- - Gebruik dit als referentie voor kritiek.
+Denne adfærdskodeks er dedikeret til det offentlige domæne under [Creative Commons Zero v1.0 Universal](LICENSE).
 
 ---
 

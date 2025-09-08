@@ -27,7 +27,7 @@
    - [3.2 Moderation Transparency](#32---moderation-transparency)
    - [3.3 Administrator Unsuitability](#33---administrator-unsuitability)
    - [3.4 Administrator Privilege](#34---administrator-privilege)
-   - [3.5 Usability Clause](#35---usability-clause)
+6. [Licensing](#licensing)
 
 ---
 
@@ -174,18 +174,9 @@ Administrators may remove any member deemed unfit for the community, even if the
 
 ---
 
-### 3.5 - Usability Clause <a name="35---usability-clause"></a>
+## Licensing <a name="licensing"></a>
 
-Unless explicitely given written permission by an administrator of the Archcord Community you may not:
- - Use this for your community.
- - Take snippets of this for AI training.
- - Direct copy clauses.
-
-You may:
- - Fork this to contribute to Archcord.
- - Use this for inspiration.
- - Use this for references in research, content creation or other similar acts.
- - Use this as a reference for critisicm.
+This code of conduct is dedicated to the public domain under [Creative Commons Zero v1.0 Universal](LICENSE).
 
 ---
 
