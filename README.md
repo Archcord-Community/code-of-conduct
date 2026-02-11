@@ -1,6 +1,6 @@
 # The Archcord Code of Conduct
-## Last Edited: August 7th, 2025 - 17:32 BST
-**This code of conduct applies exclusively to Archcord communities on Discord, Revolt & other future platforms. Derivatives of Archcord may utilise this.**
+## Last Edited: Febuary 11th, 2026 - 11:32 BST
+**This document applies to Archcord on Discord, Stoat (formerly Revolt), Matrix and any other platforms we may expand to including but not limited to forums, Reddit, or the likes.**
 
 ---
 
@@ -33,32 +33,38 @@
 
 ## Preface <a name="preface"></a>
 
-By joining the Archcord community, you agree to follow this Code of Conduct as it exists at the time of joining — and as it is updated over time. You also agree to comply with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). Failure to comply may result in your removal from our community.
+Upon joining Archcord and it's derivatives, you understand and agree to follow this Code of Conduct in the state that it exists at the time of joining, and as it updates over time. This is a living document and can be updated at any point. It is on you as a member to revise it, and ensure you remain in compliance. Punishments may range form light punishments, to more severe punishments.
+
+By joining Archcord you also agree to Discords [Terms of Service](https://discord.com/terms) and the [Community Guidelines](https://discord.com/guidelines).
 
 ---
 
-## Phrasings
-Administrator - Owner of the Community (Amilie, TwoCold/Green)
+## Clarification of Phrasing
+
+Administrator - Someone who has partial or full ownership of the community (Amilie / Green (AKA: TwoCold))
+Assistant Administrator - Someone who assists the administrators and has administrative abilities.
+Staff - Anyone on the general team who assists with moderation, system administration or the likes.
 
 ---
 
 ## Section 1 - General Community Policies <a name="section-1---general-community-policies"></a>
 
-These policies ensure a safe and respectful environment for all our members.
+These policies guarantee the safety of our community and surrounding services.
 
 ### 1.1 - Discrimination <a name="11---discrimination"></a>
 
 We do not tolerate any form of discrimination based on a person's gender, sexuality, race, religion, ethnicity,
-nationality, language, age, body size, and other aspects of their identity. Our community is inclusive, and any
-discriminatory actions may result in moderation action, depending on severity.
+nationality, language, age, body size, and other aspects of their identity.
+
+Our community is an inclusive community, and any discriminatory actions may result in moderation action, at a moderators discression.
 
 ---
 
 ### 1.2 - Age Requirements <a name="12---age-requirements"></a>
 
-By joining Archcord, you must be of the legal age in your jurisdiction to use our platforms. For Discord, you can review the conditions [here.](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday) Whereas for Revolt, you can review the conditions [here.](https://support.revolt.chat/kb/safety/minimum-age-guidelines) Generally, you must be over 13, if users are found underage they will have their access to Archcord, and potentially partnered servers, revoked for at minimum 2 years.
+By joining Archcord, you must be of the legal age in your jurisdiction to use our platforms. For Discord, you can review the conditions [here.](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday) Whereas for Stoat, you can review the conditions [here.](https://support.revolt.chat/kb/safety/minimum-age-guidelines) If users are found underage they will have their access to Archcord, and potentially partnered servers, revoked for at minimum 2 years.
 
-Just because we have this condition does not mean you can make not safe for work jokes, see [1.3 Safe for Work Environment](#13---safe-for-work-environment) for more information.
+This condition does not permit Not Safe for Work jokes, regardless of age. All content must retain Safe for Work.
 
 ---
 
@@ -94,7 +100,7 @@ Elitist behavior is not acceptable. Dismissing newcomers with comments like "RTF
 
 ### 1.5 - Cross-Server Drama <a name="15---cross-server-drama"></a>
 
-You're welcome to discuss Archcord's internal matters—even outside the community—as long as it's done truthfully and respectfully. Deliberate falsification or manipulation may result in removal. Likewise, please don't bring drama or disputes from other communities into Archcord—we're here to keep things constructive and drama-free.
+You're welcome to discuss Archcord's internal matters—even outside the community—as long as it's done truthfully and respectfully. Deliberate falsification or manipulation may result in removal. Likewise, please don't bring drama or disputes from other communities into Archcord — we're here to keep things constructive and drama-free.
 
 ---
 
