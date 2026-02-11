@@ -1,5 +1,5 @@
 # The Archcord Code of Conduct
-## Last Edited: August 7th, 2025 - 17:32 BST
+## Last Edited: Febuary 11th, 2026 - 11:32 BST
 **This document applies to Archcord on Discord, Stoat (formerly Revolt), Matrix and any other platforms we may expand to including but not limited to forums, Reddit, or the likes.**
 
 ---
