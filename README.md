@@ -27,7 +27,8 @@
    - [3.2 Moderation Transparency](#32---moderation-transparency)
    - [3.3 Administrator Unsuitability](#33---administrator-unsuitability)
    - [3.4 Administrator Privilege](#34---administrator-privilege)
-6. [Licensing](#licensing)
+6. [Punishment Escalation](#4---enforcement-and-punishments)
+7. [Licensing](#licensing)
 
 ---
 
@@ -180,7 +181,7 @@ Administrators may remove any member deemed unfit for the community, even if the
 
 ---
 
-5. Enforcement & Punishments
+### 4. Enforcement & Punishments
 
 Punishments are applied at staff discretion based on the severity and context of the violation. The general escalation path is:
 
