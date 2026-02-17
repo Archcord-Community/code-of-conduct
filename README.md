@@ -180,6 +180,23 @@ Administrators may remove any member deemed unfit for the community, even if the
 
 ---
 
+5. Enforcement & Punishments
+
+Punishments are applied at staff discretion based on the severity and context of the violation. The general escalation path is:
+
+    Verbal Warning — A staff member addresses the behavior directly.
+    Formal Warning — Logged officially. Accumulating warnings leads to further action.
+    Mute — Temporary removal of ability to send messages or speak in voice.
+    Kick — Removed from the server but able to rejoin.
+    Temporary Ban — Removed for a set period of time.
+    Permanent Ban — Removed permanently. Appeals may be submitted via ticket.
+
+Some violations — such as doxxing, discrimination, harassment, or sharing CSAM or illegal content — skip directly to a permanent ban with no prior warning.
+
+Staff are not required to follow this escalation path if the situation warrants immediate severe action. Use of alt accounts to bypass a ban results in the ban being made permanent if it wasn't already.
+
+---
+
 ## Licensing <a name="licensing"></a>
 
 This code of conduct is dedicated to the public domain under [Creative Commons Zero v1.0 Universal](LICENSE).
